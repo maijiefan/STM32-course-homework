@@ -1,0 +1,5 @@
+# Keil 编译产物，不上传
+**/MDK-ARM/**/Objects/
+**/MDK-ARM/**/Listings/
+**/MDK-ARM/**/*.uvguix.*
+**/MDK-ARM/**/*.bak
